@@ -5,7 +5,7 @@ This repository holds two kinds of set files made for crochet charts.
 
 They fall into two categories - finished, and in-progress:
   - finished files are ready for anyone to use in Crochet Charts and are usefully sized, named, drawn, etc
-  - in-progress files are most of the way there but the author maybe has some questions that others can help wth before the set might be considered finished.
+  - in-progress files are most of the way there but the author maybe has some questions that others can help wth before the set will be considered finished.
 
 If you are a first time contributor you might consider adding your file to in-progress first and then starting a thread on Ravelry(below) or raising an issue here to get some feedback before moving it to the finished folder.
 
@@ -23,7 +23,7 @@ To load sets into Crochet Charts follow this procedure:
 5. Select each stitch you want to include into Crochet charts by clicking on the checkbox next to each item. You do not need to import all the stitches (you can return to install more later)
 6. Click on the "Add To List" button on the right hand side. The selected stitches are now available to you and you can close the stitch library window.
 
-Note that if you do not select any stitches then none will appear in the main stitch selection dialogs and windows in Crochet Charts.
+Note that if you do not select any stitches (step 6) then none will appear in the main stitch selection dialogs and windows in Crochet Charts.
 
 You should now be able to select and use those stitches in the stitch selection window.
 
@@ -35,14 +35,16 @@ You should now be able to select and use those stitches in the stitch selection 
 3. As the set is worked on it can eventually be moved into the finished folder and the entries in the in-progress folder removed.
 
 # New set guidelines:
-1. See the file above (Making stitches in Inkscape) for a procedure to create your own sets using Inkscape, the opensource vector drawing program.
-2. Make sure that the set is well named. E.g. "newset" is not a useful name. "DC4 cluster variants" is a good name.
+1. See the file in the top level folder above (Making stitches in Inkscape) for a procedure to create your own sets using Inkscape (the opensource vector drawing program).
+2. Make sure that the set is well named. E.g. "newset" is not a useful name. "DC4 cluster variants (UK)" is a good name.
 3. Make sure to have named the stitches usefully.
     - E.g indicating US, UK, other naming convention will be useful to users who live in other places.
 4. You can ask a question to get clarity by raising an issue here or asking at the ravelry group.
-    - Title your question based on your setname. E.g. 4-dc cluster variants improvement suggestion
+    - Title your question based on your setname. E.g. "4-dc cluster variants improvement suggestion"
     - https://www.ravelry.com/discuss/stitch-works-software/topics
 
 Crochet Charts opensource code is located here:
    - https://github.com/iPenguin/CrochetCharts
+   - release 1.2 can be downloaded from here:
+      - http://stitchworkssoftware.com/
    - Historically it is infrequently updated and hence this approach to aggregating useful stitch sets.
