@@ -12,9 +12,8 @@ If you are a first time contributor you might consider adding your file to in-pr
 # Using these sets:
 To load sets into Crochet Charts follow this procedure:
 1. Take the downloaded file and put it somewhere handy on your system
-   - perhaps collect them in a new folder under Downloads, if you're on windows.
-2. Open Crochet Charts and open the Stitch library under "Tools/Stitch
-library" menu
+   - perhaps collect them in a new folder called "Crochet Charts stitch sets" under Downloads, if you're on windows.
+2. Open Crochet Charts and open the Stitch library under "Tools/Stitch library" menu
     - you should see all the stitches available to you currently.
     - the "Stitch Source" defaults to "Default Stitches" - which are the originally installed stitches.
     - if you select a different "Stitch Source" you will see all the stitch sets you have imported.
@@ -22,8 +21,7 @@ library" menu
 4. A new set will be created and you will see all of the stitches available in that set.
     - you will also see that the stitch set is now named (by the author) in the top drop down window. (Instead of Default)
 5. Select each stitch you want to include into Crochet charts by clicking on the checkbox next to each item. You do not need to import all the stitches (you can return to install more later)
-6. Click on the "Add To List" button on the right hand side. The selected stitches are now available to you and you can close
-the stitch library window.
+6. Click on the "Add To List" button on the right hand side. The selected stitches are now available to you and you can close the stitch library window.
 
 Note that if you do not select any stitches then none will appear in the main stitch selection dialogs and windows in Crochet Charts.
 
