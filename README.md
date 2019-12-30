@@ -1,4 +1,4 @@
-# crochet-Charts-Stitch-Sets
+# Crochet-Charts-Stitch-Sets
 A library of user contributed sets of charts for the Crochet Charts program
 
 This repository holds two kinds of set files made for crochet charts.
