@@ -43,6 +43,7 @@ You should now be able to select and use those stitches in the stitch selection 
     - Title your question based on your setname. E.g. "4-dc cluster variants improvement suggestion"
     - https://www.ravelry.com/discuss/stitch-works-software/topics
 
+# Crochet Charts
 Crochet Charts opensource code is located here:
    - https://github.com/iPenguin/CrochetCharts
    - release 1.2 can be downloaded from here:
