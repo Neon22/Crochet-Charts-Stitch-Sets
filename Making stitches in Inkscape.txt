@@ -1,0 +1,62 @@
+Making stitches in Inkscape
+
+Version: Inkscape 0.92.4
+Authored: Dec 2019
+
+This document will try to outline how to make new Stitches for use in Crochet Charts.
+Crochet Charts is located here:
+  - http://stitchworkssoftware.com/
+
+New Sets for Crochet charts are collecting here:
+  - https://github.com/Neon22/Crochet-Charts-Stitch-Sets
+and this is where this document comes from.
+
+
+Procedure:
+-----------
+
+Key points if you already know inkscape:
+1. height of stitches is 21.5mm.
+2. line width is 0.75mm
+3. stitch should be black lines with no fills.
+4. make canvas only just big enough to fit the shape in width and height before saving.
+
+If you are new to Inkscape:
+1. Open Inkscape
+2. Drag an existing svg stitch file onto the inkscape canvas to load it.
+  - svg fies located at the github location. Use as a reference for size and style of the new stitches.
+3. You can make as many stitches as you like inside one copy of Inkscape.
+ - But when it comes to exporting for Crochet Charts, you will be opening a separate inkscape for each stitch.
+ - More about this in step 11.
+
+4. You can copy and paste to get two stitches. It's recommended to do this so you can modify one leaving the other for use as a visual reference for height and/or line thikness.
+5. select the shape by clicking on it. 
+   - make sure the selected tool (on the left hand side of the screen) is "Select and transform" tool (F1 shortcut key)
+6. Ungroup the shapes by typing shift-ctrl-G.
+   - you should see multiple selection boxes around the component lines of the shape.
+7. reposition the lines as needed for your new shape.
+8. add new lines using the tools on the left hand side of the screen until you have the shape you need.
+9. You can bend lines and move individual endpoints by using the "Edit paths by nodes" tool (F2 shortcut)
+
+10. When you have the shape finished check the following aspects.
+   - Is the entire shape 21.5mm tall (width should be proprtional).
+      - (select it with the F1 tool and look at the H box on the toolbar. Choose mm if some other unit is selected.)
+   - group the shapes making up a single stitch (ctrl G) into a single entity.
+     - shift select to collect them and ctrl G to group
+   - is the line width 0.75mm for all lines (shift-control-F to get the "fill and stroke" menu).
+   - no shapes have fills.
+   - make sure colors you use are black(lines) only.
+
+11. Once each shape is finalised its time to save them out as individual svg files.
+  - open a new inkscpae (Ctrl-N) or "File/New" under menus   
+  - copy a shape from your original document into this new inkscape.
+  - move the shape so it is in the lower left corner of the document page.
+  - change the document properties to 21.5mm high and 30mm wide.
+    - refine the document width and height and move the shape until it fits just inside the page boundaries.
+  - save the file as svg.
+    - use a filename that does not already exist in the svgs folder on the website.
+    - an easy way to do this is use minimal name length and add two initials on the end from your name.
+	E.g. - 4-dcv2-MS
+	- this will help to keep the files unique and for many variants to exist so you can choose the ones that best suit you.
+	
+  
