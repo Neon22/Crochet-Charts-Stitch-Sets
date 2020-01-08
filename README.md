@@ -5,7 +5,9 @@ This repository holds two kinds of set files made for crochet charts.
 
 They fall into two categories - finished, and in-progress:
   - finished files are ready for anyone to use in Crochet Charts and are usefully sized, named, drawn, etc
+    - all finished files are in the 'finished' folder above.
   - in-progress files are most of the way there but the author maybe has some questions that others can help wth before the set will be considered finished.
+    - all in-progress files are in the 'in-progress' folder above.
 
 If you are a first time contributor you might consider adding your file to in-progress first and then starting a thread on Ravelry(below) or raising an issue here to get some feedback before moving it to the finished folder.
 
