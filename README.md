@@ -31,9 +31,15 @@ You should now be able to select and use those stitches in the stitch selection 
 
 # Contributing:
 1. If you have a set that you feel is correctly sized, named, and efficient then upload it to the finished folder.
-2. If you feel your set is not quite ready then upload it to in-progress folder. 
-    - Add a text and/or image file indicating what you think needs adjusting. Someone will help you.
-    - The text and image file must have the same name as the set (or its all just chaos :))
+2. You might have a bunch of symbols in svg format or you might have a .set file:
+   - you have a set file:
+     - If you feel your set is not quite ready then upload it to in-progress folder.
+     - Add a text and/or image file indicating what you think needs adjusting. Someone will help you.
+     - The text and image file must have the same name as the set (or its all just chaos :))
+    - you have one or more symbol files:
+      - Please make a subdirectory under 'in-progress' and put all of our files in there.
+      - when you upload add the folder name before you add your files.
+        - E.g. in-progress/yourname/stitch.svg
 3. As the set is worked on it can eventually be moved into the finished folder and the entries in the in-progress folder removed.
 
 # New set guidelines:
