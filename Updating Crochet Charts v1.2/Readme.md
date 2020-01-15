@@ -8,12 +8,13 @@ Within Crochet charts you can import a set of new symbols, or update an icon(sym
 This works quite well but has some drawbacks. Primarily the .set xml based files contain binary blobs in them which make it very hard to move between systems.
 Also internal and new symbols are stored in different ways.
 
+# Procedure: #
 1. Find your configuration directory.
 Crochet Charts stores user data in a special place. You need to find this location because that's where most of the files will need to go.
 On Windows its found in a folder like this:
    - C:\Users\userloginname\AppData\Local\Stitch Works Software\Crochet Charts
    - where userloginname is the name of your user.
-   - you can dinhis username by finding the appdata folder on your machine and noting the name.
+   - you can find userloginname by finding the appdata folder on your machine and noting the name.
       - do this by opening a file Browser and typing %appdata% into the address bar
       - you should end up in a folder like this:
          - C:\Users\userloginname\AppData\Roaming
