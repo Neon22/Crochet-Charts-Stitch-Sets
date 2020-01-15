@@ -1,9 +1,12 @@
-# Crochet-Charts-Stitch-Sets
-A library of user contributed sets of charts for the Crochet Charts program
+# Crochet Charts Stitch Sets
+A library of user contributed sets of charts for the Crochet Charts program.
+Also a number of files and a procedure to update Crochet Charts to use a bigger set of better looking, size matched, symbols.
 
-This repository holds two kinds of set files made for crochet charts.
+This repository holds two kinds of set files made for crochet charts. As well as the instructions for updating Crochet Charts to a new symbol set.
 
-They fall into two categories - finished, and in-progress:
+Instructions for updating are in the folder above called "Updating Crochet Charts v1.2"
+
+The set files fall into two categories - finished, and in-progress:
   - finished files are ready for anyone to use in Crochet Charts and are usefully sized, named, drawn, etc
     - all finished files are in the 'finished' folder above.
   - in-progress files are most of the way there but the author maybe has some questions that others can help wth before the set will be considered finished.
