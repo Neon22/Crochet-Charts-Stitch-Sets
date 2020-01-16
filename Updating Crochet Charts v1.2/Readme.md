@@ -24,13 +24,13 @@ On Windows its found in a folder like this:
 2. Updating current Tunisian symbols.
     We do this first because it is the least difficult process.
     The Tunisian symbols are unchanged. We add a new category so they can be sorted in the Stitch Library more easily.
-    1. Close Crcochet Charts if its open.
+    1. Close Crochet Charts if it's open.
     2. Download the Tunisian.xml file and save it into the configuration directory.
     3. Start Crochet Charts.
     4. Navigate to the Stitch Library (ctr-L) or 'Tools/Stitch Library'
     5. Select 'Stitch Source:' Tunisian (It defaults to 'Default Stitches')
-    6. You will see the existing Tunisian stitches but Category is filled in and says 'Tunisian'.
-    7. Select each one until all selected (tick in checkbox)
+    6. You will see the existing Tunisian stitches but 'Category' is filled in and says 'Tunisian'.
+    7. Select each one until all are selected (tick in checkbox)
     8. CLick on 'Add To List' to swap these for the ones in Default.
     9. Select 'Stitch source' = Default
     10. You can now see the Tunisian stitches.
