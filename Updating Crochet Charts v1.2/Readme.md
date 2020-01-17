@@ -31,7 +31,8 @@ On Windows its found in a folder like this:
     5. Select 'Stitch Source:' Tunisian (It defaults to 'Default Stitches')
     6. You will see the existing Tunisian stitches but 'Category' is filled in and says 'Tunisian'.
     7. Select each one until all are selected (tick in checkbox)
-    8. CLick on 'Add To List' to swap these for the ones in Default.
+    8. Click on 'Add To List' to swap these for the ones in Default.
+        - You will be prompted to replace the existing stitch for each of them.
     9. Select 'Stitch source' = Default
     10. You can now see the Tunisian stitches.
         - by clicking on the category column header you can sort Tunisian stitches to the top or bottom.
