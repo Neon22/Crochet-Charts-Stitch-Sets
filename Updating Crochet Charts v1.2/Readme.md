@@ -42,6 +42,7 @@ Otherwise you should backup your data - at the end of installing the new stitche
 
 We do this first because it is the least difficult process.
 The Tunisian symbols are unchanged. We add a new category so they can be sorted in the Stitch Library more easily.
+
     1. Close Crochet Charts if it's open.
     2. Download the Tunisian.xml file and save it into the configuration directory.
     3. Start Crochet Charts.
