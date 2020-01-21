@@ -2,6 +2,8 @@ This folder contains the set files you need for Crochet Charts.
 
 You only need to download the .set files and follow instructions on the previous page to install on your machine.
 
+If this folder is empty, or you are a new CrochetCharts user then get the replacement stitches - See the folder above this one.
+
 # Downloading:
 To successfully download the set files you must follow this procedure (or you'll end up with some html in a file pretending to be set file but its no good for anything)
 1. click on the .set file you can see in the list of files above this text.
