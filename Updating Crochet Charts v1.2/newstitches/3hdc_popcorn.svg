@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="37"
+   height="62"
+   id="svg3819">
+  <defs
+     id="defs3813" />
+  <metadata
+     id="metadata3816">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(0.78017253,0,0,1.0320007,-2.6994363,-2.3616592)"
+     id="layer1-484-4"
+     style="fill:none;stroke:#000000;stroke-width:2.81675529;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+    <ellipse
+       cx="33.363636"
+       cy="35.727272"
+       rx="29.545454"
+       ry="19.181818"
+       transform="matrix(0.59607321,0,0,0.44127054,7.4720139,-3.742111)"
+       id="path2993-4-5"
+       style="fill:none;stroke:#000000;stroke-width:5.4922061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="M 27.359183,21.477491 V 60.702818"
+       id="path4353-0"
+       style="fill:none;stroke:#000000;stroke-width:2.81675529;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       id="g4422-3"
+       style="fill:none;stroke:#000000;stroke-width:2.81675529;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <path
+         d="M 9.6677638,12.618635 C -1.7100398,32.087225 12.938321,52.749531 26.473207,60.262457"
+         id="path4353-4-4-9"
+         style="fill:none;stroke:#000000;stroke-width:2.81675529;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <use
+         transform="matrix(-1,0,0,1,54.718367,0)"
+         id="use4416-5"
+         style="fill:none;stroke:#000000;stroke-width:2.81675529;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         x="0"
+         y="0"
+         width="56"
+         height="64"
+         xlink:href="#path4353-4-4-9" />
+    </g>
+  </g>
+</svg>
