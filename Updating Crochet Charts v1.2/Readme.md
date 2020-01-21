@@ -10,7 +10,7 @@ Also internal and new symbols are stored in different ways.
 
 # Procedure: #
 ### Preparation
-####1. Find your configuration directory.
+#### 1. Find your configuration directory.
 
 Crochet Charts stores user data in a special place. You need to find this location because that's where most of the files will need to go.
 On Windows its found in a folder like this:
@@ -23,7 +23,7 @@ On Windows its found in a folder like this:
          - The place you want to find is one folder up then under Local\Stitch Works Software\Crochet Charts
    - Make a note of this location and leave your file browser open here.
    
-####2. Backup your current changes.
+#### 2. Backup your current changes.
 
 If you have never imported sets or used 'Manage Icons' to change icons and add new stitches then you can skip this step.
 Otherwise you should backup your data - at the end of installing the new stitches we wil explain how to get your personal ones back in.
@@ -38,7 +38,7 @@ Otherwise you should backup your data - at the end of installing the new stitche
          - Then restart the program. Your old stitches will be back.
 
 ### Installing new stitches
-####3. Updating current Tunisian symbols.
+#### 3. Updating current Tunisian symbols.
 
     We do this first because it is the least difficult process.
     The Tunisian symbols are unchanged. We add a new category so they can be sorted in the Stitch Library more easily.
