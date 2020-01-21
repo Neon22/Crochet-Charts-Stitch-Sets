@@ -27,15 +27,15 @@ On Windows its found in a folder like this:
 
 If you have never imported sets or used 'Manage Icons' to change icons and add new stitches then you can skip this step.
 Otherwise you should backup your data - at the end of installing the new stitches we wil explain how to get your personal ones back in.
-    - The configuration directory, discovered in Step 1, is called 'Crochet Charts'.
-    - Rename it to "Crochet Charts preload" or any other name than that suits you.
-         - as long as is not called "Crochet Charts" the system will not find it and so rebuild a fresh empty one.
-    - We will temporarily keep your old directory until you have loaded in any of your own stitches you wish to keep.
-    - Alternatively - you can undo all the following steps work, and get back to where you started by:
-         - make sure the program "Crochet Charts" is not running.
-         - deleting the directory that Crochet Charts is about to build next time its starts (named 'Crochet Charts').
-         - and renaming your old renamed director to be "Crochet Charts". Thereby retsorin your data back to normal.
-         - Then restart the program. Your old stitches will be back.
+   - The configuration directory, discovered in Step 1, is called 'Crochet Charts'.
+   - Rename it to "Crochet Charts preload" or any other name than that suits you.
+       - as long as is not called "Crochet Charts" the system will not find it and so rebuild a fresh empty one.
+   - We will temporarily keep your old directory until you have loaded in any of your own stitches you wish to keep.
+   - Alternatively - you can undo all the following steps work, and get back to where you started by:
+       - make sure the program "Crochet Charts" is not running.
+       - deleting the directory that Crochet Charts is about to build next time its starts (named 'Crochet Charts').
+       - and renaming your old renamed director to be "Crochet Charts". Thereby retsorin your data back to normal.
+       - Then restart the program. Your old stitches will be back.
 
 ### Installing new stitches
 #### 3. Updating current Tunisian symbols.
