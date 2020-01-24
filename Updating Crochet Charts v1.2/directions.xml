@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<stitch_set>
+    <name>core replacements</name>
+    <author>Neon22</author>
+    <email></email>
+    <org></org>
+    <url>https://github.com/Neon22/Crochet-Charts-Stitch-Sets</url>
+	<stitch>
+        <name>arrow1</name>
+        <icon>./newstitches/arrow1.svg</icon>
+        <description>arrow short</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>arrow2</name>
+        <icon>./newstitches/arrow2.svg</icon>
+        <description>arrow</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>arrow3</name>
+        <icon>./newstitches/arrow3.svg</icon>
+        <description>arrow med</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>arrow4</name>
+        <icon>./newstitches/arrow4.svg</icon>
+        <description>arrow long</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>arrowc1</name>
+        <icon>./newstitches/arrowc1.svg</icon>
+        <description>arrow curved short</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>arrowc2</name>
+        <icon>./newstitches/arrowc2.svg</icon>
+        <description>arrow curved</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>arrowc3</name>
+        <icon>./newstitches/arrowc3.svg</icon>
+        <description>arrow curved med</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>arrowc4</name>
+        <icon>./newstitches/arrowc4.svg</icon>
+        <description>arrow curved long</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>start</name>
+        <icon>./newstitches/start.svg</icon>
+        <description>start here</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>end</name>
+        <icon>./newstitches/end.svg</icon>
+        <description>end here</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>blo</name>
+        <icon>./newstitches/blo.svg</icon>
+        <description>back loop location</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+	<stitch>
+        <name>flo</name>
+        <icon>./newstitches/flo.svg</icon>
+        <description>front loop location</description>
+        <category>directions</category>
+        <ws></ws>
+    </stitch>
+</stitch_set>
