@@ -4,7 +4,7 @@ Also a number of files and a procedure to update Crochet Charts to use a bigger 
 
 This repository holds two kinds of set files made for crochet charts. As well as the instructions for updating Crochet Charts to a new symbol set.
 
-## Instructions for updating are in the folder above called "Updating Crochet Charts v1.2" ##
+- ## Instructions for updating are in the folder above called "Updating Crochet Charts v1.2" ##
 
 The set files fall into two categories - finished, and in-progress:
   - finished files are ready for anyone to use in Crochet Charts and are usefully sized, named, drawn, etc
