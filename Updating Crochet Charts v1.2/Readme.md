@@ -19,6 +19,7 @@ On Windows its found in a folder like this:
          - C:\Users\userloginname\AppData\Roaming
          - The place you want to find is one folder up then under Local\Stitch Works Software\Crochet Charts
    - Make a note of this location and leave your file browser open here.
+
 On the Mac look in here:
    - ??
    
@@ -68,12 +69,13 @@ These symbols include, start, end, blo,flo and 8 arrows to be used between rows.
     6. Start Crochet Charts.
     7. Navigate to the Stitch Library (ctr-L) or 'Tools/Stitch Library'
     8. Select 'Stitch Source:' Direction stitches (It defaults to 'Default Stitches')
-    6. You will see 12 or so stitches with 'Category' saying 'directions'. You will not see any icons.
-    one at a time. click on teh icon dropdown and select the appropruiate icon
-    
-    7. Select each one until all are selected (tick in checkbox)
-    8. Click on 'Add To List' to swap these for the ones in Default.
-        - You will be prompted to replace the existing stitch for each of them.
-    9. Select 'Stitch source' = Default
-    10. You can now see the Tunisian stitches.
-        - by clicking on the category column header you can sort Tunisian stitches to the top or bottom.
+    9. You will see 12 or so stitches with 'Category' saying 'directions'. You will not see any icons.
+    10. Using the directions.png file as a guide:
+    11. One at a time, click on the icon dropdown and select the appropriate icon from the list. Where you see two the same (e.g. start), select the thinner looking one - most likely this wil be the second one in the list)
+    12. When all icons are visile,
+    13. Select each stitch (tick in checkbox) until all are selected.
+    14. Click on 'Add To List' to set/swap these stitches for the ones in Default.
+        - You will be prompted to replace any existinging stitches
+    15. Select 'Stitch source' = Default
+    16. You can now see the directions stitches.
+        - by clicking on the category column header you can sort stitches to the top or bottom(click twice).
