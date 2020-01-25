@@ -74,8 +74,8 @@ These symbols include: start, end, blo, flo, and 8 arrows to be used between row
     5. Go into the newstitches directory and unzip he files so they all appear in there as a long list.
        - You will see a number of new stitch symbols as svg files in the newstitches directory.
     6. Double click on the directions.bat file.
-       - A text window will open for a few seconds and the close.
-       - This will edit the file and get the config directory properly connectd so the new stitches can be found.
+       - A text window will open for a few seconds and then close.
+       - This will edit the file and get the config directory properly connected so the new stitches can be found.
     6. Start Crochet Charts.
     7. Navigate to the Stitch Library (ctr-L) or 'Tools/Stitch Library'
     8. Select 'Stitch Source:' Direction stitches (It defaults to 'Default Stitches')
