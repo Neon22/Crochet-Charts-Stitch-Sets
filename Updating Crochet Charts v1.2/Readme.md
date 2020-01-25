@@ -56,6 +56,7 @@ The Tunisian symbols are unchanged. We add a new category so they can be sorted 
     10. You can now see the Tunisian stitches.
         - by clicking on the category column header you can sort Tunisian stitches to the top or bottom.
     11. You can only see the category here for now.
+    12. Close the Stitch Library and select stitches as normal.
       
 #### 4. Installing Directions symbols.
 
@@ -64,18 +65,18 @@ These symbols include: start, end, blo, flo, and 8 arrows to be used between row
 
     1. Close Crochet Charts if it's open.
     2. Download the following files into your configuration directory.
-       - far.bat
-       - directions.xml
-       - directions.bat
-       - directions.png
-       - directions.zip
+       - far.bat         - internal tool - finds and replaces config directory
+       - directions.xml  - description of new stitches
+       - directions.bat  - will rename directory in xml file
+       - directions.png  - just to look at
+       - directions.zip  - the new stitch symbols
     3. Create a new subdirectory here called /newstitches. We will be putting all of our stitches in here.
     4. Move the directions.zip file into the newstitches directory.
-    5. Go into the newstitches directory and unzip he files so they all appear in there as a long list.
+    5. Go into the newstitches directory and unzip the files so they all appear in there as a long list.
        - You will see a number of new stitch symbols as svg files in the newstitches directory.
     6. Double click on the directions.bat file.
        - A text window will open for a few seconds and then close.
-       - This will edit the file and get the config directory properly connected so the new stitches can be found.
+       - This will edit the xml file and get the config directory properly connected so the new stitches can be found.
     6. Start Crochet Charts.
     7. Navigate to the Stitch Library (ctr-L) or 'Tools/Stitch Library'
     8. Select 'Stitch Source:' Direction stitches (It defaults to 'Default Stitches')
@@ -84,5 +85,6 @@ These symbols include: start, end, blo, flo, and 8 arrows to be used between row
     11. Click on 'Add To List' to set/swap these stitches for the ones in Default.
         - You will be prompted to replace any existing stitches just like with the Tunisians above.
     15. Select 'Stitch source' = Default
-    16. You can now see the directions stitches with all of the others.
+    16. You can now see the directions stitches along with with all of the others.
         - by clicking on the category column header you can sort stitches to the top or bottom (click twice).
+    17. Close the Stitch Library and select stitches as normal.
