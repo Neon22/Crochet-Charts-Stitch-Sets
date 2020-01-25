@@ -14,11 +14,11 @@ On Windows its found in a folder like this:
    - C:\Users\userloginname\AppData\Local\Stitch Works Software\Crochet Charts
    - where userloginname is the name of your user.
    - you can find userloginname by finding the appdata folder on your machine and noting the name.
-      - do this by opening a file Browser and typing %appdata% into the address bar
+      - do this by opening a file Browser and typing %localappdata% into the address bar
       - you should end up in a folder like this:
-         - C:\Users\userloginname\AppData\Roaming
-         - The place you want to find is one folder up then under Local\Stitch Works Software\Crochet Charts
+         - C:\Users\userloginname\AppData\Local\Stitch Works Software\Crochet Charts
    - Make a note of this location and leave your file browser open here.
+   - We will be downloading files into here.
 
 On the Mac look in here:
    - ??
@@ -51,31 +51,38 @@ The Tunisian symbols are unchanged. We add a new category so they can be sorted 
     6. You will see the existing Tunisian stitches but 'Category' is filled in and says 'Tunisian'.
     7. Select each one until all are selected (tick in checkbox)
     8. Click on 'Add To List' to swap these for the ones in Default.
-        - You will be prompted to replace the existing stitch for each of them.
-    9. Select 'Stitch source' = Default
+        - You will be prompted to replace the existing stitch for each of them. Replace them (first choice).
+    9. At the top of the Stitch library - Select 'Stitch source' = Default
     10. You can now see the Tunisian stitches.
         - by clicking on the category column header you can sort Tunisian stitches to the top or bottom.
+    11. You can only see the category here for now.
       
 #### 3. Installing Directions symbols.
 
-This is a small set of symbols. Once again to practise the update procedure on a small set of symbols.
+This is a small set of symbols. Once again to practise the update procedure.
 These symbols include: start, end, blo, flo, and 8 arrows to be used between rows.
 
     1. Close Crochet Charts if it's open.
-    2. Download the directions.xml and directions.png files and save into the configuration directory.
+    2. Download the following files into your configuration directory.
+       - far.bat
+       - directions.xml
+       - directions.bat
+       - directions.png
+       - directions.zip
     3. Create a new subdirectory here called /newstitches. We will be putting all of our stitches in here.
-    4. Download the directions.zip file and save it into the configuration/newstitches directory.
-    5. Unzip the zip file into that same newstitches directory. You will see a number of new stitch symbols as svg files.
+    4. Move the directions.zip file into the newstitches directory.
+    5. Go into the newstitches directory and unzip he files so they all appear in there as a long list.
+       - You will see a number of new stitch symbols as svg files in the newstitches directory.
+    6. Double click on the directions.bat file.
+       - A text window will open for a few seconds and the close.
+       - This will edit the file and get the config directory properly connectd so the new stitches can be found.
     6. Start Crochet Charts.
     7. Navigate to the Stitch Library (ctr-L) or 'Tools/Stitch Library'
     8. Select 'Stitch Source:' Direction stitches (It defaults to 'Default Stitches')
-    9. You will see 12 or so stitches with 'Category' saying 'directions'. You will not see any icons.
-    10. Using the directions.png file as a guide:
-    11. One at a time, click on the icon dropdown and select the appropriate icon from the list. Where you see two the same (e.g. start), select the thinner looking one - most likely this wil be the second one in the list.
-    12. When all icons are visile,
-    13. Select each stitch (tick in checkbox) until all are selected.
-    14. Click on 'Add To List' to set/swap these stitches for the ones in Default.
-        - You will be prompted to replace any existing stitches
+    9. You will see 12 or so stitches with 'Category' saying 'directions'.
+    10. Select each stitch (tick in checkbox) until all are selected.
+    11. Click on 'Add To List' to set/swap these stitches for the ones in Default.
+        - You will be prompted to replace any existing stitches just like with the Tunisians above.
     15. Select 'Stitch source' = Default
-    16. You can now see the directions stitches wih all of the others.
+    16. You can now see the directions stitches with all of the others.
         - by clicking on the category column header you can sort stitches to the top or bottom (click twice).
