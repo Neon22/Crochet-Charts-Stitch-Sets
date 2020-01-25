@@ -57,7 +57,7 @@ The Tunisian symbols are unchanged. We add a new category so they can be sorted 
         - by clicking on the category column header you can sort Tunisian stitches to the top or bottom.
     11. You can only see the category here for now.
       
-#### 3. Installing Directions symbols.
+#### 4. Installing Directions symbols.
 
 This is a small set of symbols. Once again to practise the update procedure.
 These symbols include: start, end, blo, flo, and 8 arrows to be used between rows.
