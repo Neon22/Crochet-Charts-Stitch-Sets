@@ -1,7 +1,12 @@
+@echo off
 set foo=directions
+@echo on
+@echo "Renaming lines in %foo%.xml to configuration folder"
+@echo off
 call far.bat ./news "%localappdata%/Stitch Works Software/Crochet Charts/news" %foo%.xml>temp.xml
+@echo on
 echo "processed"
 del "%foo%.xml"
-echo "original deleted"
+echo "Original deleted"
 rename "temp.xml" "%foo%.xml"
-echo "renamed"
+echo "Renamed and done. !"
