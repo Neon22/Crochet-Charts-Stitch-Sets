@@ -1,10 +1,12 @@
 # Crochet Charts Stitch Sets
 A library of user contributed sets of charts for the Crochet Charts program.
-Also a number of files and a procedure to update Crochet Charts to use a bigger set of better looking, size matched, symbols.
+
+Not to be confused with a full set of replacemnt stitches here:
+- https://github.com/Neon22/Crochet-Charts-replacement-stitches
+- a bigger set of better looking, size matched, symbols. 
+- with instructions.
 
 This repository holds two kinds of set files made for crochet charts. As well as the instructions for updating Crochet Charts to a new symbol set.
-
-- ## Instructions for updating are in the folder above called "Updating Crochet Charts v1.2" ##
 
 The set files fall into two categories - finished, and in-progress:
   - finished files are ready for anyone to use in Crochet Charts and are usefully sized, named, drawn, etc
